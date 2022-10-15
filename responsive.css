@@ -1,0 +1,362 @@
+@media screen and (max-width:1147px) {
+    .loginsection {
+       
+        height: 1150px;
+        
+       
+    }
+  
+}
+@media screen and (max-width:1043px) {
+    .texts h1 {
+        font-size: 50px;
+        
+    }
+    .texts h3 {
+        font-size: 22px;
+        
+        margin-top: 15px;
+        margin-bottom: 15px;
+        
+    }
+    .texts p {
+        font-size: 17px;
+        
+    }
+ 
+}
+
+@media screen and (max-width:800px) {
+    .texts p {
+        font-size: 13px;
+        
+    }
+    .texts h3 {
+        font-size: 18px;
+        
+        margin-top: 12px;
+        margin-bottom: 12px;
+        
+    }
+    .texts h1 {
+        font-size: 43px;
+        
+    }
+    .loginsection .login button {
+        width: 350px;
+        height: 35px;
+        
+    }
+    .loginsection .login input{
+        width: 350px;
+        height: 35px;
+        font-size: 18px;
+        
+       
+        margin-bottom: 40px;
+    
+    }
+    .loginsection .login textarea {
+        width: 350px;
+        height: 95px;
+        font-size: 18px;
+       
+        margin-top: 15px;
+    }
+    #y {
+       
+        font-size: 15px;
+        padding-top: 17px;
+    }
+    
+    #z {
+       
+        font-size: 13px;
+        margin-top: 70px;
+    
+    }
+}
+@media screen and (max-width:887px) {
+    .texts p {
+        font-size: 15px;
+        
+    }
+    .texts h3 {
+        font-size: 19px;
+        
+        margin-top: 16px;
+        margin-bottom: 16px;
+        
+    }
+    .texts h1 {
+        font-size: 48px;
+        
+    }
+    .loginsection .login button {
+        width: 400px;
+        height: 40px;
+        
+    }
+    .loginsection .login input{
+        width: 400px;
+        height: 40px;
+        font-size: 20px;
+        
+       
+        margin-bottom: 45px;
+    
+    }
+    .loginsection .login textarea {
+        width: 400px;
+        height: 110px;
+        font-size: 19px;
+       
+        margin-top: 17px;
+    }
+}
+@media screen and (max-width:720px) {
+    .texts p {
+        font-size: 14px;
+        
+    }
+    .texts h3 {
+        font-size: 16px;
+        
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+    }
+    .texts h1 {
+        font-size: 39px;
+        
+    }
+    .loginsection .login button {
+        width: 300px;
+        height: 28px;
+        
+    }
+    .loginsection .login input{
+        width: 300px;
+        height: 28px;
+        font-size: 18px;
+        
+       
+        margin-bottom: 34px;
+    
+    }
+    .loginsection .login textarea {
+        width: 300px;
+        height: 100px;
+        font-size: 15px;
+       
+        margin-top: 9px;
+    }
+}
+
+
+
+@media screen and (max-width:633px) {
+    .loginsection .login button {
+        width: 270px;
+        height: 26px;
+        font-size: 20;
+    }
+    .loginsection .login input{
+        width: 270px;
+        height: 26px;
+        font-size: 16px;
+        
+       
+        margin-bottom: 25px;
+    
+    }
+    .loginsection .login textarea {
+        width: 270px;
+        height: 76px;
+        font-size: 13px;
+       
+        margin-top: 5px;
+    }
+    #y {
+       
+        font-size: 13px;
+        padding-top: 15px;
+    }
+    
+    #z {
+       
+        font-size: 11px;
+        margin-top: 60px;
+    
+    }
+}
+@media screen and (max-width:560px) {
+    .gridcontainer {
+        
+        max-width: 1100px;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 15px;
+       
+        bottom: 100px;
+    }
+    c
+    .gridcontainer .gridcard {
+        min-width: 200px;
+        height: 180px;
+        
+    
+    }
+    .gridcontainer .gridcard .cardlogo i {
+        font-size: 48px;
+       
+        margin-top: 20px;
+    }
+    .gridcontainer .gridcard .cardtext h4 {
+        font-size: 18px;
+    }
+    .gridcontainer .gridcard .cardtext {
+        text-align: center;
+        margin-top: 5px;
+    }
+    .gridcontainer .gridcard .cardlogo {
+        width: 100%;
+        height: 80px;
+        text-align: center;
+    }
+    .texts i {
+
+       
+        font-size: 30px;
+        margin-left: 17px;
+        margin-top: 13px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .loginsection .login button {
+        width: 250px;
+        height: 23px;
+        
+    }
+    .loginsection .login input{
+        width: 250px;
+        height: 23px;
+        font-size: 14px;
+        
+       
+        margin-bottom: 20px;
+    
+    }
+    .loginsection .login textarea {
+        width: 250px;
+        height: 60px;
+        font-size: 13px;
+       
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width:414px) {
+    .gridcontainer {
+        
+        max-width: 1100px;
+        grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+        gap: 15px;
+       
+        bottom: 100px;
+    }
+    .gridcontainer .gridcard {
+        min-width: 170px;
+        height: 150px;
+        
+    
+    }
+    .gridcontainer .gridcard .cardlogo i {
+        font-size: 40px;
+       
+        margin-top: 10px;
+    }
+    .gridcontainer .gridcard .cardtext h4 {
+        font-size: 15px;
+    }
+    .gridcontainer .gridcard .cardtext {
+        text-align: center;
+        margin-top: 3px;
+    }
+    .gridcontainer .gridcard .cardlogo {
+        width: 100%;
+        height: 80px;
+        text-align: center;
+    }
+    .texts p {
+        font-size: 12px;
+        
+    }
+    .texts h3 {
+        font-size: 14px;
+        
+        margin-top: 5px;
+        margin-bottom: 5px;
+        
+    }
+    .texts h1 {
+        font-size: 20px;
+        
+    }
+    .texts i {
+
+       
+        font-size: 20px;
+        margin-left: 10px;
+        margin-top: 7px;
+    }
+}
+@media screen and (max-width:555px) {
+    #y {
+       
+        font-size: 10px;
+        padding-top: 10px;
+    }
+    .foot {
+        width: 300px;
+       
+    }
+    
+    #z {
+       
+        font-size: 9px;
+        margin-top: 60px;
+    
+    }
+    .gridcontainer {
+        
+        max-width: 1100px;
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 15px;
+       
+        bottom: 50px;
+    }
+    .gridcontainer .gridcard {
+        min-width: 120px;
+        height: 110px;
+        
+    
+    }
+    .gridcontainer .gridcard .cardlogo i {
+        font-size: 26px;
+       
+        margin-top: 10px;
+    }
+    .gridcontainer .gridcard .cardtext h4 {
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .gridcontainer .gridcard .cardtext {
+        text-align: center;
+        margin-top: 3px;
+    }
+    .gridcontainer .gridcard .cardlogo {
+       
+        height: 30px;
+        
+    }
+}
